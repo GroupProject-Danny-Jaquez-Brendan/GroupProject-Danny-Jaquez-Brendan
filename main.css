@@ -203,7 +203,7 @@ main {
     float: left;
     width: 480px;
     position: relative;
-    background-image: url("./images/jersey.PNG");padding-bottom: 60em;
+    background-image: url("./images/jersey.png");padding-bottom: 60em;
     background-size: cover;
     height: 300px;
 }
